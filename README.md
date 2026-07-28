@@ -36,4 +36,4 @@ Make sure you have **Node.js** and **npm** installed on your system.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Moalduais/luxury-and-elegant-Reactjs-protfolio-website.git](https://github.com/Moalduais/luxury-and-elegant-Reactjs-protfolio-website.git)
+   git clone https://github.com/Moalduais/luxury-and-elegant-Reactjs-protfolio-website.git
